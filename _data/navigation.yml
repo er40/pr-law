@@ -3,3 +3,5 @@ items:
     name: Home
   - link: /practice-areas.html
     name: Practice Areas
+  - link: /about-us
+    name: About Us
