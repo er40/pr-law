@@ -1,7 +1,7 @@
 items:
   - link: /
     name: Home
-  - link: /practice-areas.html
+  - link: /practice-areas
     name: Practice Areas
   - link: /about-us
     name: About Us
